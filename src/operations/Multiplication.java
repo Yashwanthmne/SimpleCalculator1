@@ -1,4 +1,7 @@
-public class Multiplication implements Compute{
+package operations;
+import common.CalcData;
+
+public class Multiplication implements Compute {
 
     private CalcData data;
 

@@ -1,4 +1,8 @@
-public class Addition implements Compute{
+package operations;
+
+import common.CalcData;
+
+public class Addition implements Compute {
 
     private CalcData data;
 

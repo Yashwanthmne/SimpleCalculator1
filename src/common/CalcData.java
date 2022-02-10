@@ -1,3 +1,5 @@
+package common;
+
 public class CalcData {
 
     private final Double operand1;

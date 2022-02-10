@@ -1,4 +1,8 @@
-public class Subraction implements Compute{
+package operations;
+
+import common.CalcData;
+
+public class Subraction implements Compute {
 
     private CalcData data;
 

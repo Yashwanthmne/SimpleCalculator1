@@ -1,4 +1,7 @@
-public class Division implements Compute{
+package operations;
+import common.CalcData;
+
+public class Division implements Compute {
 
     private CalcData data;
     public Division(CalcData data){
